@@ -46,7 +46,7 @@ $(document).ready(function() {
 
       $('.navigation-wrapper').toggleClass('animated bounceInDown animated bounceOutUp');
     }
-
+    
     $('.btn-mobile-menu__icon').toggleClass('fa fa-list fa fa-angle-up animated fadeIn');
   });
 });
