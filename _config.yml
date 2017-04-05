@@ -1,11 +1,11 @@
 # Basic
-title: Louis
+title: Godlovesmile
 subtitle:
 welcome_message: <a href="https://github.com/louis-ly" target="_blank"></a>
-description: Louis的iOS开发小站
-creator: <a href="http://onev.cat">@onevcat</a>
+description: Godlovesmile的程序之路
+# creator: <a href="http://onev.cat">@onevcat</a>
 
-url: "http://louisly.com"
+# url: "http://louisly.com"
 
 permalink: /:year/:month/:title/
 
@@ -37,14 +37,14 @@ paginate_path: "page/:num/"
 comment:
     disqus: louis-ly
     duoshuo: louis-ly
-    
+
 # Social
 social:
-    weibo: louisCoder
-    github: louis-ly
-    twitter: louisCoder
-    gplus: 114566653125205042673
-    mail: 396868934@qq.com
+    weibo: 好孩子好坏
+    github: Godlovesmile
+    # twitter: louisCoder
+    # gplus: 114566653125205042673
+    mail: lizhiyan@gmail.com
 
 # Google Analytics
 ga:
