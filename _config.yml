@@ -1,7 +1,7 @@
 # Basic
 title: Godlovesmile
 subtitle:
-welcome_message: <a href="https://github.com/louis-ly" target="_blank"></a>
+welcome_message: <a href="https://github.com/Godlovesmile" target="_blank"></a>
 description: Godlovesmile的程序之路
 # creator: <a href="http://onev.cat">@onevcat</a>
 
@@ -35,8 +35,8 @@ paginate_path: "page/:num/"
 
 # Comment
 comment:
-    disqus: louis-ly
-    duoshuo: louis-ly
+    disqus: Godlovesmile
+    duoshuo: Godlovesmile
 
 # Social
 social:
