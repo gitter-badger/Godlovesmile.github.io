@@ -277,7 +277,7 @@ window.onload = function (){
 		  </body>
 		</html>
 ```
-![image](/assets/2017-04-08-images/architecture.png)
+![image](/assets/2017-04-08-images/pie.png)
 
 #####1>.柱状图
 ```ojb
