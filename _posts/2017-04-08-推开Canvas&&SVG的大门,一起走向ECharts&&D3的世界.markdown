@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 推开Canvas&&SVG的大门,一起走向EChars&&D3的世界
+title: 推开Canvas&&SVG的大门,一起走向ECharts&&D3的世界
 date: 2017-04-08 11:11:11.000000000 +09:00
 categories: ECharts&&D3 Github
 tags: ECharts&&D3&emsp;Github
@@ -277,7 +277,7 @@ window.onload = function (){
 		  </body>
 		</html>
 ```
-![image](/assets/2017-04-08-images/pie.png)
+![image](/assets/2017-04-08-images/ECharts_pie.png)
 
 #####1>.柱状图
 ```ojb
