@@ -1,5 +1,7 @@
 # Vno - Jekyll
 
+[![Join the chat at https://gitter.im/Godlovesmile-github-io/Lobby](https://badges.gitter.im/Godlovesmile-github-io/Lobby.svg)](https://gitter.im/Godlovesmile-github-io/Lobby?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 [Vno Jekyll](https://github.com/onevcat/vno-jekyll) is a theme for [Jekyll](http://jekyllrb.com). It is a port of my Ghost theme [vno](https://github.com/onevcat/vno), which is originally developed from [Dale Anthony's Uno](https://github.com/daleanthony/uno).
 
 ## Live Demo
